@@ -9,12 +9,8 @@ public class Client {
         d.ejecterPiece();
         d.tournerPoigne();
 
-
-
-
         d.ejecterPiece();
         d.tournerPoigne();
-
 
         System.err.println(d.getNombre());
 
