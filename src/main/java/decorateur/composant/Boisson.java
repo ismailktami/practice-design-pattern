@@ -1,4 +1,4 @@
-package decorateur.entities.composant;
+package decorateur.composant;
 
 public abstract class Boisson {
     String description;

@@ -1,6 +1,6 @@
-package decorateur.entities;
+package decorateur;
 
-import decorateur.entities.composant.Boisson;
+import decorateur.composant.Boisson;
 
 public abstract class DecorateurIngredient extends Boisson {
 public abstract String getDescription();}

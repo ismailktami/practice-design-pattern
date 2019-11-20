@@ -1,4 +1,4 @@
-package decorateur.entities.composant;
+package decorateur.composant;
 
 public class SumartaFes extends Boisson {
     public SumartaFes(){

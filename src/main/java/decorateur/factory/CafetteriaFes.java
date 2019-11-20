@@ -1,10 +1,10 @@
-package decorateur.entities.factory;
+package decorateur.factory;
 
-import decorateur.entities.Chocolat;
-import decorateur.entities.Creme;
-import decorateur.entities.composant.Boisson;
-import decorateur.entities.composant.EspressoFes;
-import decorateur.entities.composant.SumartaFes;
+import decorateur.Chocolat;
+import decorateur.Creme;
+import decorateur.composant.Boisson;
+import decorateur.composant.EspressoFes;
+import decorateur.composant.SumartaFes;
 
 public class CafetteriaFes extends Caffeteria {
 

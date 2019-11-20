@@ -1,9 +1,9 @@
-package decorateur.entities;
+package decorateur;
 
-import decorateur.entities.composant.Boisson;
-import decorateur.entities.composant.EspressoFes;
-import decorateur.entities.factory.CafetteriaFes;
-import decorateur.entities.factory.Caffeteria;
+import decorateur.composant.Boisson;
+import decorateur.composant.EspressoFes;
+import decorateur.factory.CafetteriaFes;
+import decorateur.factory.Caffeteria;
 
 public class Client {
 
