@@ -20,8 +20,7 @@ public class Client {
         System.out.println(iterator.next());
 
 
-
-            iterator.remove();
+        iterator.remove();
 
 
     }

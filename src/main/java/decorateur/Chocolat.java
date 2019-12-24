@@ -8,6 +8,7 @@ public class Chocolat extends DecorateurIngredient {
     public String getDescription() {
         return boisson.getDescription()+" chocolat";
     }
+
     @Override
     public double cout() {
         return boisson.cout()+3;
